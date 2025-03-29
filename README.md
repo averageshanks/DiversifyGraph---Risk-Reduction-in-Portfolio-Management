@@ -1,21 +1,15 @@
-DiversiGraph: Risk-Optimized Asset Network for Diversification
-Overview
-DiversiGraph constructs financial asset networks based on historical price correlations to optimize diversification and reduce risk. It uses graph theory, correlation analysis, and minimum spanning trees (MSTs) to visualize relationships between assets and identify uncorrelated investment opportunities.
+# 🌎 DiversiGraph: Risk-Optimized Asset Network for Diversification
 
-Key Features
-Correlation-Based Asset Network: Constructs a graph where edges represent similarity in asset price movements.
+## 📌 Overview  
+DiversiGraph is a financial network analysis tool designed to enhance **risk reduction** and **portfolio diversification**. Using **graph theory, correlation analysis, and minimum spanning trees (MSTs)**, it visualizes asset relationships and identifies uncorrelated investment opportunities.
 
-Risk Reduction via MST: Extracts a minimum spanning tree to highlight essential connections.
+## 🚀 Key Features  
+- 📊 **Correlation-Based Asset Network** – Constructs a financial graph where edges represent asset correlations.  
+- 🔗 **Minimum Spanning Tree (MST)** – Extracts a core asset structure to reveal critical connections.  
+- 🏦 **Fundamental Data Integration** – Associates financial attributes with each asset for deeper insights.  
+- 📉 **Diversification Insights** – Identifies low-correlation assets for optimized portfolio construction.  
 
-Fundamental Data Integration: Associates financial attributes with each asset for deeper insights.
-
-Diversification Insights: Identifies uncorrelated assets for portfolio optimization.
-
-Technologies Used
-Python (Pandas, NumPy, NetworkX, Matplotlib)
-
-Yahoo Finance (yFinance) for data retrieval
-
-Machine Learning techniques for asset classification
-
-🚀 Optimize your portfolio with data-driven diversification!
+## 🛠️ Technologies Used  
+- **Python** (Pandas, NumPy, NetworkX, Matplotlib)  
+- **Yahoo Finance (`yFinance`)** for data retrieval  
+- **Graph-based Machine Learning** for asset classification  
